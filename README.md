@@ -10,6 +10,4 @@
 ![Views counter](https://komarev.com/ghpvc/?username=qweme32&style=flat&color=f53936)
 ![Skills](https://img.shields.io/badge/Skills-c%2B%2B%2C%20python%2C%20js-f53936?&style=flat)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qweme32&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://hit.yhype.me/github/profile?user_id=99718350)
