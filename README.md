@@ -11,6 +11,8 @@
 
 <p>At the moment I'm already working in production 🙈 and I don't need cases. However, if you have an idea for a proposal, please send me a message on telegram - @qwemec 🔥</p>
 
+he/his
+
 <!--<a href="https://hello.qweme.dev">https://hello.qweme.dev</a>-->
 
 ![Views counter](https://komarev.com/ghpvc/?username=qweme32&style=for-the-badge&color=orange)
