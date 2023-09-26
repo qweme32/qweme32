@@ -5,16 +5,12 @@
  /_/      
 ```
 
-<p>Hi, my name is Vlad 👋 , but I prefer to be called Qweme 😎 . I'm 17 years old, originally from St. Petersburg, Russia 🇷🇺 . My stack includes technologies like: Nestjs, Fastify, Flask, Pytorch, Datasets, Vue, Nuxt, Mysql, MongoDB, Redis, Nginx, Unix. 🥰</p>
+![Anime counter](https://count.getloli.com/get/@qweme32?theme=asoul) 
 
-<p>I speak Russian, English and am learning Japanese.</p> 
+<p>Full stack & ML Developer from St. Petersburg</p>
 
-<p>At the moment I'm already working in production 🙈 and I don't need cases. However, if you have an idea for a proposal, please send me a message on telegram - @qwemec 🔥</p>
+- [Website](https://qweme.dev) ( qweme.dev )
+- [Telegram](https://qwemec.t.me) ( @qwemec )
+- [Telegram Channel](https://qweme_ai.t.me) ( @qweme_ai )
 
-he/his
-
-<!--<a href="https://hello.qweme.dev">https://hello.qweme.dev</a>-->
-![Anime counter](https://count.getloli.com/get/@qweme32?theme=asoul)
-![Views counter](https://komarev.com/ghpvc/?username=qweme32&style=for-the-badge&color=orange)  
-  
-[![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17140%26project%3D%26in%3D0)](https://codetime.dev)
+he / his / qweme
