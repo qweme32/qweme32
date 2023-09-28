@@ -5,7 +5,7 @@
  /_/      
 ```
 
-![Anime counter](https://count.getloli.com/get/@qweme32?theme=asoul) 
+![Anime counter](https://koibito.qweme.dev/@qweme32?length=5) 
 
 <p>Full stack & ML Developer from St. Petersburg</p>
 
