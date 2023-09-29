@@ -5,7 +5,7 @@
  /_/      
 ```
 
-![Anime counter](https://koibito.qweme.dev/@qweme32?length=5) 
+![Anime counter](https://koibito.qweme.dev/@qweme32?length=5&scale=1) 
 
 <p>Full stack & ML Developer from St. Petersburg</p>
 
