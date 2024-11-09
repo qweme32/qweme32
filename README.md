@@ -8,7 +8,7 @@
 
 <p>Full stack & ML Developer from St. Petersburg</p>
 
-- [Telegram](https://tepocheck.t.me) ( @tepocheck )
-- [Telegram Channel](https://fkefked.t.me) ( @fkefked )
+- [PM](https://tepocheck.t.me) ( @tepocheck )
+- [TGC](https://fkefked.t.me) ( @fkefked )
 
 he / his / fake
