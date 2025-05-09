@@ -1,14 +1,28 @@
-```
-    _______  ________  ____ ___  ________ 
-  ╱╱       ╲╱        ╲╱    ╱   ╲╱        ╲
- ╱╱      __╱         ╱         ╱         ╱
-╱        _╱         ╱        _╱        _╱ 
-╲_______╱ ╲___╱____╱╲____╱___╱╲________╱     
-```
+## 🛠️ Tech Stack
 
-<p>Full stack & ML Developer from St. Petersburg</p>
+- **Backend:** TypeScript (NestJS, Fastify), Python (FastAPI), Rust, C++
+- **Databases:** MongoDB, Redis, PostgreSQL, ClickHouse
+- **Real-time:** Socket.IO, WebSocket, TCP
+- **DevOps:** GitHub Actions, Docker, Nginx, Prometheus + Grafana
 
-- [PM](https://tepocheck.t.me) ( @tepocheck )
-- [TGC](https://fkefked.t.me) ( @fkefked )
+---
 
-he / his / fake
+## 🔐 What I Do
+
+- Design high-load, secure backend systems
+- Build real-time apps
+- Zero-downtime deployment & monitoring
+
+---
+
+## 🚧 Currently Exploring
+
+- Advanced system programming (Rust, C++)
+- Security patterns & encryption
+- Scalable microservices
+
+---
+
+## 📫 Reach Me
+
+- Telegram: [@lolipop](https://t.me/lolipop)
