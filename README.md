@@ -1,9 +1,9 @@
 ## 🛠️ Tech Stack
 
 - **Backend:** TypeScript (NestJS, Fastify), Python (FastAPI), Rust, C++
-- **Databases:** MongoDB, Redis, PostgreSQL, ClickHouse
+- **Databases:** PostgreSQL, MongoDB, Redis, ClickHouse
 - **Real-time:** Socket.IO, WebSocket, TCP
-- **DevOps:** GitHub Actions, Docker, Nginx, Prometheus + Grafana
+- **DevOps:** K8S, GitHub Actions, Docker
 
 ---
 
@@ -26,3 +26,5 @@
 ## 📫 Reach Me
 
 - Telegram: [@lolipop](https://t.me/lolipop)
+
+![counter](https://komarev.com/ghpvc/?username=qweme32&style=flat-square&color=orange)
