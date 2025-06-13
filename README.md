@@ -1,9 +1,12 @@
 ## 🛠️ Tech Stack
 
-- **Backend:** TypeScript (NestJS, Fastify), Python (FastAPI), Rust, C++
+- **Backend:** NestJS, Fastify, FastAPI, Fiber, Axum, etc...
+- **Frontend:** Nuxt, Vue 3
 - **Databases:** PostgreSQL, MongoDB, Redis, ClickHouse
-- **Real-time:** Socket.IO, WebSocket, TCP
-- **DevOps:** K8S, GitHub Actions, Docker
+- **Brokers:** Nats + JetStream, RabbitMQ
+- **Real-time:** WebSocket, TCP, Custom over TCP
+- **DevOps:** K8S, CI/CD, Docker
+- **Langs:** TypeScript, Python, Rust, C++
 
 ---
 
@@ -11,7 +14,7 @@
 
 - Design high-load, secure backend systems
 - Build real-time apps
-- Zero-downtime deployment & monitoring
+- Deployment & monitoring
 
 ---
 
@@ -19,7 +22,6 @@
 
 - Advanced system programming (Rust, C++)
 - Security patterns & encryption
-- Scalable microservices
 
 ---
 
