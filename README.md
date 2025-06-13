@@ -27,4 +27,5 @@
 
 - Telegram: [@lolipop](https://t.me/lolipop)
 
-![counter](https://komarev.com/ghpvc/?username=qweme32&style=flat-square&color=orange)
+![counter](https://komarev.com/ghpvc/?username=qweme32&color=orange)
+![wakatime](https://wakatime.com/badge/user/0962ade5-b41e-4a81-9bfa-d3f0eea8cd5b.svg)
